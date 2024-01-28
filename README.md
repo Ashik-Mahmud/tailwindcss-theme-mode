@@ -14,6 +14,12 @@ npm run dev
 
 ```
 
+## Technologies Used
+
+- React
+- Tailwind CSS
+- Tailwind Merge (for merging tailwind classes)
+
 ## Code Snippet
 
 ```bash
@@ -26,3 +32,5 @@ npm run dev
 ```
 
 ## License
+
+> Thanks, Have a great day ahead
